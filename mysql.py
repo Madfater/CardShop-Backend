@@ -5,7 +5,7 @@ db_settings = {
     "host": "127.0.0.1",
     "port": 3306,
     "user": "root",
-    "password": "1236987450", # 記得更改密碼
+    "password": "qq816816", # 記得更改密碼
     "db": "testdb",
     "charset": "utf8"
 }

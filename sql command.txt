@@ -76,7 +76,7 @@ CREATE TABLE Comment
   FOREIGN KEY (User_ID) REFERENCES User(ID)
 );
 
-CREATE TABLE Card_to_Cart_Table
+CREATE TABLE Cart_to_Card_Table
 (
   ID INT NOT NULL,
   Quantity INT NOT NULL,
